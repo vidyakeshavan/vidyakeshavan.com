@@ -1,18 +1,57 @@
 * {
   box-sizing: border-box;
+  background: #F9F2F2;
 }
 .navbar {
   width: 100%;
 }
 
 h1 {
+  font-family: 'lato', sans-serif;
+  font-size: 30px;
+  margin-top: 20%;
+  margin-left: 10%;
+  margin-bottom:10px;
+}
+
+h2 {
   font-family: 'Acme', sans-serif;
-  font-size: 65px;
-  margin-top: 75px;
-  margin-left: 50%;
-  float:left;
+  font-size: 80px;
+  margin-left: 10%;
+  margin-top:0px;
+  margin-bottom:10px;
+}
+
+h3 {
+  font-family: 'lato', sans-serif;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-top:10px;
+  margin-bottom: 0px;
+
+}
+
+h4 {
+  font-family: 'lato', sans-serif;
+  font-size: 30px;
+  margin-left: 10%;
+  margin-top:0px;
+  letter-spacing: 17px;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+img {
+  margin-left: 70%;
+  position: relative;
+  bottom: 0px;
+  height: 300px;
+  width: 300px;
 }
 
 
-
-
+p {
+  font-family: 'lato', sans-serif;
+  font-size: 15px;
+  margin-left: 10%;
+}
